@@ -7,12 +7,12 @@
 
 [Presentation Video](https://www.youtube.com/watch?v=0zGLEHUCpzY)
 
-### Teammates:
-* Tushar Shaji — [@tusharshaji](https://github.com/tusharshaji)
-* Terrence Wu — [@Twu1738](https://github.com/Twu1738)
-* Haowen Xie — [@haowenxiex](https://github.com/haowenxiex)
-* Alan Sun — [@yxnsn](https://github.com/yxnsn)
+## Team Lortisol
 
+| <img src="https://avatars.githubusercontent.com/u/166771967?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/271352121?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/223207307?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/263507612?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/207687003?v=4" width="200"> |
+|-|-|-|-|-|
+| [Jacky Chen](https://github.com/jzchenn) | [Tushar Shaji](https://github.com/tusharshaji) | [Terrence Wu](https://github.com/Twu1738) | [Haowen Xie](https://github.com/haowenxiex) | [Alan Sun](https://github.com/yxnsn) |
+| Team Leader<br>Developer | Developer | Developer | Developer | Developer |
 ---
 This repository is a fork of the original team project. You can find the original repository [here](https://github.com/devsuoa/devsuoa-devs-sesa-beginner-hackathon-2026-lortisol).
 
